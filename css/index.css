@@ -50,8 +50,8 @@ a {
   right: 0;
   top: 0;
   bottom: 0;
-  width: 100px;
-  height: 100px;
+  width: 50px;
+  height: 50px;
   -webkit-animation: rotate1 5s ease-in-out infinite;
           animation: rotate1 5s ease-in-out infinite;
   transform-style: preserve-3d;
@@ -190,799 +190,799 @@ a {
 }
 @-webkit-keyframes launchFirework1 {
   to {
-    transform: translate(37px, -95px);
+    transform: translate(-33px, 88px);
   }
 }
 @keyframes launchFirework1 {
   to {
-    transform: translate(37px, -95px);
+    transform: translate(-33px, 88px);
   }
 }
 .firework1 {
-  -webkit-animation: launchFirework 1267ms linear forwards, launchFirework1 936ms linear forwards;
-          animation: launchFirework 1267ms linear forwards, launchFirework1 936ms linear forwards;
+  -webkit-animation: launchFirework 1080ms linear forwards, launchFirework1 956ms linear forwards;
+          animation: launchFirework 1080ms linear forwards, launchFirework1 956ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework2 {
   to {
-    transform: translate(-86px, 37px);
+    transform: translate(97px, -74px);
   }
 }
 
 @keyframes launchFirework2 {
   to {
-    transform: translate(-86px, 37px);
+    transform: translate(97px, -74px);
   }
 }
 .firework2 {
-  -webkit-animation: launchFirework 924ms linear forwards, launchFirework2 924ms linear forwards;
-          animation: launchFirework 924ms linear forwards, launchFirework2 924ms linear forwards;
+  -webkit-animation: launchFirework 696ms linear forwards, launchFirework2 1260ms linear forwards;
+          animation: launchFirework 696ms linear forwards, launchFirework2 1260ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework3 {
   to {
-    transform: translate(28px, 98px);
+    transform: translate(-62px, -8px);
   }
 }
 
 @keyframes launchFirework3 {
   to {
-    transform: translate(28px, 98px);
+    transform: translate(-62px, -8px);
   }
 }
 .firework3 {
-  -webkit-animation: launchFirework 1153ms linear forwards, launchFirework3 760ms linear forwards;
-          animation: launchFirework 1153ms linear forwards, launchFirework3 760ms linear forwards;
+  -webkit-animation: launchFirework 1124ms linear forwards, launchFirework3 1172ms linear forwards;
+          animation: launchFirework 1124ms linear forwards, launchFirework3 1172ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework4 {
   to {
-    transform: translate(27px, -19px);
+    transform: translate(87px, -16px);
   }
 }
 
 @keyframes launchFirework4 {
   to {
-    transform: translate(27px, -19px);
+    transform: translate(87px, -16px);
   }
 }
 .firework4 {
-  -webkit-animation: launchFirework 1377ms linear forwards, launchFirework4 541ms linear forwards;
-          animation: launchFirework 1377ms linear forwards, launchFirework4 541ms linear forwards;
+  -webkit-animation: launchFirework 1498ms linear forwards, launchFirework4 527ms linear forwards;
+          animation: launchFirework 1498ms linear forwards, launchFirework4 527ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework5 {
   to {
-    transform: translate(73px, -58px);
+    transform: translate(-23px, -56px);
   }
 }
 
 @keyframes launchFirework5 {
   to {
-    transform: translate(73px, -58px);
+    transform: translate(-23px, -56px);
   }
 }
 .firework5 {
-  -webkit-animation: launchFirework 938ms linear forwards, launchFirework5 1122ms linear forwards;
-          animation: launchFirework 938ms linear forwards, launchFirework5 1122ms linear forwards;
+  -webkit-animation: launchFirework 878ms linear forwards, launchFirework5 685ms linear forwards;
+          animation: launchFirework 878ms linear forwards, launchFirework5 685ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework6 {
   to {
-    transform: translate(-55px, -11px);
+    transform: translate(48px, -79px);
   }
 }
 
 @keyframes launchFirework6 {
   to {
-    transform: translate(-55px, -11px);
+    transform: translate(48px, -79px);
   }
 }
 .firework6 {
-  -webkit-animation: launchFirework 1387ms linear forwards, launchFirework6 1296ms linear forwards;
-          animation: launchFirework 1387ms linear forwards, launchFirework6 1296ms linear forwards;
+  -webkit-animation: launchFirework 780ms linear forwards, launchFirework6 804ms linear forwards;
+          animation: launchFirework 780ms linear forwards, launchFirework6 804ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework7 {
   to {
-    transform: translate(-41px, -39px);
+    transform: translate(-90px, -67px);
   }
 }
 
 @keyframes launchFirework7 {
   to {
-    transform: translate(-41px, -39px);
+    transform: translate(-90px, -67px);
   }
 }
 .firework7 {
-  -webkit-animation: launchFirework 735ms linear forwards, launchFirework7 1202ms linear forwards;
-          animation: launchFirework 735ms linear forwards, launchFirework7 1202ms linear forwards;
+  -webkit-animation: launchFirework 726ms linear forwards, launchFirework7 636ms linear forwards;
+          animation: launchFirework 726ms linear forwards, launchFirework7 636ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework8 {
   to {
-    transform: translate(11px, 48px);
+    transform: translate(-50px, -53px);
   }
 }
 
 @keyframes launchFirework8 {
   to {
-    transform: translate(11px, 48px);
+    transform: translate(-50px, -53px);
   }
 }
 .firework8 {
-  -webkit-animation: launchFirework 876ms linear forwards, launchFirework8 1330ms linear forwards;
-          animation: launchFirework 876ms linear forwards, launchFirework8 1330ms linear forwards;
+  -webkit-animation: launchFirework 1228ms linear forwards, launchFirework8 1135ms linear forwards;
+          animation: launchFirework 1228ms linear forwards, launchFirework8 1135ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework9 {
   to {
-    transform: translate(-12px, -77px);
+    transform: translate(-95px, 72px);
   }
 }
 
 @keyframes launchFirework9 {
   to {
-    transform: translate(-12px, -77px);
+    transform: translate(-95px, 72px);
   }
 }
 .firework9 {
-  -webkit-animation: launchFirework 846ms linear forwards, launchFirework9 1236ms linear forwards;
-          animation: launchFirework 846ms linear forwards, launchFirework9 1236ms linear forwards;
+  -webkit-animation: launchFirework 1017ms linear forwards, launchFirework9 655ms linear forwards;
+          animation: launchFirework 1017ms linear forwards, launchFirework9 655ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework10 {
   to {
-    transform: translate(-71px, -63px);
+    transform: translate(-66px, -58px);
   }
 }
 
 @keyframes launchFirework10 {
   to {
-    transform: translate(-71px, -63px);
+    transform: translate(-66px, -58px);
   }
 }
 .firework10 {
-  -webkit-animation: launchFirework 1403ms linear forwards, launchFirework10 786ms linear forwards;
-          animation: launchFirework 1403ms linear forwards, launchFirework10 786ms linear forwards;
+  -webkit-animation: launchFirework 562ms linear forwards, launchFirework10 1010ms linear forwards;
+          animation: launchFirework 562ms linear forwards, launchFirework10 1010ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework11 {
   to {
-    transform: translate(72px, -27px);
+    transform: translate(20px, -2px);
   }
 }
 
 @keyframes launchFirework11 {
   to {
-    transform: translate(72px, -27px);
+    transform: translate(20px, -2px);
   }
 }
 .firework11 {
-  -webkit-animation: launchFirework 1429ms linear forwards, launchFirework11 638ms linear forwards;
-          animation: launchFirework 1429ms linear forwards, launchFirework11 638ms linear forwards;
+  -webkit-animation: launchFirework 947ms linear forwards, launchFirework11 1456ms linear forwards;
+          animation: launchFirework 947ms linear forwards, launchFirework11 1456ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework12 {
   to {
-    transform: translate(-8px, 75px);
+    transform: translate(80px, -39px);
   }
 }
 
 @keyframes launchFirework12 {
   to {
-    transform: translate(-8px, 75px);
+    transform: translate(80px, -39px);
   }
 }
 .firework12 {
-  -webkit-animation: launchFirework 1046ms linear forwards, launchFirework12 535ms linear forwards;
-          animation: launchFirework 1046ms linear forwards, launchFirework12 535ms linear forwards;
+  -webkit-animation: launchFirework 1263ms linear forwards, launchFirework12 1054ms linear forwards;
+          animation: launchFirework 1263ms linear forwards, launchFirework12 1054ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework13 {
   to {
-    transform: translate(-2px, 61px);
+    transform: translate(-14px, 98px);
   }
 }
 
 @keyframes launchFirework13 {
   to {
-    transform: translate(-2px, 61px);
+    transform: translate(-14px, 98px);
   }
 }
 .firework13 {
-  -webkit-animation: launchFirework 845ms linear forwards, launchFirework13 568ms linear forwards;
-          animation: launchFirework 845ms linear forwards, launchFirework13 568ms linear forwards;
+  -webkit-animation: launchFirework 1447ms linear forwards, launchFirework13 934ms linear forwards;
+          animation: launchFirework 1447ms linear forwards, launchFirework13 934ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework14 {
   to {
-    transform: translate(97px, -26px);
+    transform: translate(61px, -61px);
   }
 }
 
 @keyframes launchFirework14 {
   to {
-    transform: translate(97px, -26px);
+    transform: translate(61px, -61px);
   }
 }
 .firework14 {
-  -webkit-animation: launchFirework 984ms linear forwards, launchFirework14 1461ms linear forwards;
-          animation: launchFirework 984ms linear forwards, launchFirework14 1461ms linear forwards;
+  -webkit-animation: launchFirework 1256ms linear forwards, launchFirework14 785ms linear forwards;
+          animation: launchFirework 1256ms linear forwards, launchFirework14 785ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework15 {
   to {
-    transform: translate(17px, -21px);
+    transform: translate(54px, -37px);
   }
 }
 
 @keyframes launchFirework15 {
   to {
-    transform: translate(17px, -21px);
+    transform: translate(54px, -37px);
   }
 }
 .firework15 {
-  -webkit-animation: launchFirework 1045ms linear forwards, launchFirework15 1146ms linear forwards;
-          animation: launchFirework 1045ms linear forwards, launchFirework15 1146ms linear forwards;
+  -webkit-animation: launchFirework 1245ms linear forwards, launchFirework15 520ms linear forwards;
+          animation: launchFirework 1245ms linear forwards, launchFirework15 520ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework16 {
   to {
-    transform: translate(-14px, -14px);
+    transform: translate(49px, -33px);
   }
 }
 
 @keyframes launchFirework16 {
   to {
-    transform: translate(-14px, -14px);
+    transform: translate(49px, -33px);
   }
 }
 .firework16 {
-  -webkit-animation: launchFirework 1355ms linear forwards, launchFirework16 915ms linear forwards;
-          animation: launchFirework 1355ms linear forwards, launchFirework16 915ms linear forwards;
+  -webkit-animation: launchFirework 1366ms linear forwards, launchFirework16 1461ms linear forwards;
+          animation: launchFirework 1366ms linear forwards, launchFirework16 1461ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework17 {
   to {
-    transform: translate(-6px, -90px);
+    transform: translate(-66px, 96px);
   }
 }
 
 @keyframes launchFirework17 {
   to {
-    transform: translate(-6px, -90px);
+    transform: translate(-66px, 96px);
   }
 }
 .firework17 {
-  -webkit-animation: launchFirework 1336ms linear forwards, launchFirework17 664ms linear forwards;
-          animation: launchFirework 1336ms linear forwards, launchFirework17 664ms linear forwards;
+  -webkit-animation: launchFirework 1140ms linear forwards, launchFirework17 738ms linear forwards;
+          animation: launchFirework 1140ms linear forwards, launchFirework17 738ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework18 {
   to {
-    transform: translate(-2px, 78px);
+    transform: translate(46px, 92px);
   }
 }
 
 @keyframes launchFirework18 {
   to {
-    transform: translate(-2px, 78px);
+    transform: translate(46px, 92px);
   }
 }
 .firework18 {
-  -webkit-animation: launchFirework 857ms linear forwards, launchFirework18 936ms linear forwards;
-          animation: launchFirework 857ms linear forwards, launchFirework18 936ms linear forwards;
+  -webkit-animation: launchFirework 1273ms linear forwards, launchFirework18 1279ms linear forwards;
+          animation: launchFirework 1273ms linear forwards, launchFirework18 1279ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework19 {
   to {
-    transform: translate(36px, -48px);
+    transform: translate(14px, 5px);
   }
 }
 
 @keyframes launchFirework19 {
   to {
-    transform: translate(36px, -48px);
+    transform: translate(14px, 5px);
   }
 }
 .firework19 {
-  -webkit-animation: launchFirework 1329ms linear forwards, launchFirework19 726ms linear forwards;
-          animation: launchFirework 1329ms linear forwards, launchFirework19 726ms linear forwards;
+  -webkit-animation: launchFirework 1303ms linear forwards, launchFirework19 667ms linear forwards;
+          animation: launchFirework 1303ms linear forwards, launchFirework19 667ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework20 {
   to {
-    transform: translate(23px, 47px);
+    transform: translate(1px, -70px);
   }
 }
 
 @keyframes launchFirework20 {
   to {
-    transform: translate(23px, 47px);
+    transform: translate(1px, -70px);
   }
 }
 .firework20 {
-  -webkit-animation: launchFirework 1107ms linear forwards, launchFirework20 510ms linear forwards;
-          animation: launchFirework 1107ms linear forwards, launchFirework20 510ms linear forwards;
+  -webkit-animation: launchFirework 992ms linear forwards, launchFirework20 926ms linear forwards;
+          animation: launchFirework 992ms linear forwards, launchFirework20 926ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework21 {
   to {
-    transform: translate(-59px, 18px);
+    transform: translate(-99px, 68px);
   }
 }
 
 @keyframes launchFirework21 {
   to {
-    transform: translate(-59px, 18px);
+    transform: translate(-99px, 68px);
   }
 }
 .firework21 {
-  -webkit-animation: launchFirework 944ms linear forwards, launchFirework21 1308ms linear forwards;
-          animation: launchFirework 944ms linear forwards, launchFirework21 1308ms linear forwards;
+  -webkit-animation: launchFirework 770ms linear forwards, launchFirework21 1292ms linear forwards;
+          animation: launchFirework 770ms linear forwards, launchFirework21 1292ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework22 {
   to {
-    transform: translate(94px, -41px);
+    transform: translate(29px, 47px);
   }
 }
 
 @keyframes launchFirework22 {
   to {
-    transform: translate(94px, -41px);
+    transform: translate(29px, 47px);
   }
 }
 .firework22 {
-  -webkit-animation: launchFirework 1165ms linear forwards, launchFirework22 654ms linear forwards;
-          animation: launchFirework 1165ms linear forwards, launchFirework22 654ms linear forwards;
+  -webkit-animation: launchFirework 627ms linear forwards, launchFirework22 1427ms linear forwards;
+          animation: launchFirework 627ms linear forwards, launchFirework22 1427ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework23 {
   to {
-    transform: translate(-23px, 93px);
+    transform: translate(-47px, 26px);
   }
 }
 
 @keyframes launchFirework23 {
   to {
-    transform: translate(-23px, 93px);
+    transform: translate(-47px, 26px);
   }
 }
 .firework23 {
-  -webkit-animation: launchFirework 761ms linear forwards, launchFirework23 952ms linear forwards;
-          animation: launchFirework 761ms linear forwards, launchFirework23 952ms linear forwards;
+  -webkit-animation: launchFirework 770ms linear forwards, launchFirework23 1002ms linear forwards;
+          animation: launchFirework 770ms linear forwards, launchFirework23 1002ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework24 {
   to {
-    transform: translate(10px, 48px);
+    transform: translate(90px, 0px);
   }
 }
 
 @keyframes launchFirework24 {
   to {
-    transform: translate(10px, 48px);
+    transform: translate(90px, 0px);
   }
 }
 .firework24 {
-  -webkit-animation: launchFirework 1189ms linear forwards, launchFirework24 895ms linear forwards;
-          animation: launchFirework 1189ms linear forwards, launchFirework24 895ms linear forwards;
+  -webkit-animation: launchFirework 729ms linear forwards, launchFirework24 801ms linear forwards;
+          animation: launchFirework 729ms linear forwards, launchFirework24 801ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework25 {
   to {
-    transform: translate(65px, -22px);
+    transform: translate(94px, 54px);
   }
 }
 
 @keyframes launchFirework25 {
   to {
-    transform: translate(65px, -22px);
+    transform: translate(94px, 54px);
   }
 }
 .firework25 {
-  -webkit-animation: launchFirework 596ms linear forwards, launchFirework25 860ms linear forwards;
-          animation: launchFirework 596ms linear forwards, launchFirework25 860ms linear forwards;
+  -webkit-animation: launchFirework 1358ms linear forwards, launchFirework25 1410ms linear forwards;
+          animation: launchFirework 1358ms linear forwards, launchFirework25 1410ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework26 {
   to {
-    transform: translate(-14px, 20px);
+    transform: translate(63px, 26px);
   }
 }
 
 @keyframes launchFirework26 {
   to {
-    transform: translate(-14px, 20px);
+    transform: translate(63px, 26px);
   }
 }
 .firework26 {
-  -webkit-animation: launchFirework 1003ms linear forwards, launchFirework26 741ms linear forwards;
-          animation: launchFirework 1003ms linear forwards, launchFirework26 741ms linear forwards;
+  -webkit-animation: launchFirework 1215ms linear forwards, launchFirework26 1254ms linear forwards;
+          animation: launchFirework 1215ms linear forwards, launchFirework26 1254ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework27 {
   to {
-    transform: translate(94px, 9px);
+    transform: translate(58px, -46px);
   }
 }
 
 @keyframes launchFirework27 {
   to {
-    transform: translate(94px, 9px);
+    transform: translate(58px, -46px);
   }
 }
 .firework27 {
-  -webkit-animation: launchFirework 836ms linear forwards, launchFirework27 1213ms linear forwards;
-          animation: launchFirework 836ms linear forwards, launchFirework27 1213ms linear forwards;
+  -webkit-animation: launchFirework 1031ms linear forwards, launchFirework27 1234ms linear forwards;
+          animation: launchFirework 1031ms linear forwards, launchFirework27 1234ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework28 {
   to {
-    transform: translate(-62px, 27px);
+    transform: translate(-40px, -26px);
   }
 }
 
 @keyframes launchFirework28 {
   to {
-    transform: translate(-62px, 27px);
+    transform: translate(-40px, -26px);
   }
 }
 .firework28 {
-  -webkit-animation: launchFirework 826ms linear forwards, launchFirework28 1423ms linear forwards;
-          animation: launchFirework 826ms linear forwards, launchFirework28 1423ms linear forwards;
+  -webkit-animation: launchFirework 1087ms linear forwards, launchFirework28 1375ms linear forwards;
+          animation: launchFirework 1087ms linear forwards, launchFirework28 1375ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework29 {
   to {
-    transform: translate(29px, -2px);
+    transform: translate(-38px, -90px);
   }
 }
 
 @keyframes launchFirework29 {
   to {
-    transform: translate(29px, -2px);
+    transform: translate(-38px, -90px);
   }
 }
 .firework29 {
-  -webkit-animation: launchFirework 893ms linear forwards, launchFirework29 1162ms linear forwards;
-          animation: launchFirework 893ms linear forwards, launchFirework29 1162ms linear forwards;
+  -webkit-animation: launchFirework 1168ms linear forwards, launchFirework29 939ms linear forwards;
+          animation: launchFirework 1168ms linear forwards, launchFirework29 939ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework30 {
   to {
-    transform: translate(-41px, -92px);
+    transform: translate(28px, 23px);
   }
 }
 
 @keyframes launchFirework30 {
   to {
-    transform: translate(-41px, -92px);
+    transform: translate(28px, 23px);
   }
 }
 .firework30 {
-  -webkit-animation: launchFirework 1476ms linear forwards, launchFirework30 1231ms linear forwards;
-          animation: launchFirework 1476ms linear forwards, launchFirework30 1231ms linear forwards;
+  -webkit-animation: launchFirework 1370ms linear forwards, launchFirework30 1081ms linear forwards;
+          animation: launchFirework 1370ms linear forwards, launchFirework30 1081ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework31 {
   to {
-    transform: translate(73px, -86px);
+    transform: translate(-41px, 14px);
   }
 }
 
 @keyframes launchFirework31 {
   to {
-    transform: translate(73px, -86px);
+    transform: translate(-41px, 14px);
   }
 }
 .firework31 {
-  -webkit-animation: launchFirework 986ms linear forwards, launchFirework31 1403ms linear forwards;
-          animation: launchFirework 986ms linear forwards, launchFirework31 1403ms linear forwards;
+  -webkit-animation: launchFirework 781ms linear forwards, launchFirework31 1491ms linear forwards;
+          animation: launchFirework 781ms linear forwards, launchFirework31 1491ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework32 {
   to {
-    transform: translate(6px, -18px);
+    transform: translate(-47px, 31px);
   }
 }
 
 @keyframes launchFirework32 {
   to {
-    transform: translate(6px, -18px);
+    transform: translate(-47px, 31px);
   }
 }
 .firework32 {
-  -webkit-animation: launchFirework 1297ms linear forwards, launchFirework32 895ms linear forwards;
-          animation: launchFirework 1297ms linear forwards, launchFirework32 895ms linear forwards;
+  -webkit-animation: launchFirework 1061ms linear forwards, launchFirework32 1193ms linear forwards;
+          animation: launchFirework 1061ms linear forwards, launchFirework32 1193ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework33 {
   to {
-    transform: translate(-48px, 75px);
+    transform: translate(46px, 5px);
   }
 }
 
 @keyframes launchFirework33 {
   to {
-    transform: translate(-48px, 75px);
+    transform: translate(46px, 5px);
   }
 }
 .firework33 {
-  -webkit-animation: launchFirework 1460ms linear forwards, launchFirework33 768ms linear forwards;
-          animation: launchFirework 1460ms linear forwards, launchFirework33 768ms linear forwards;
+  -webkit-animation: launchFirework 1471ms linear forwards, launchFirework33 1272ms linear forwards;
+          animation: launchFirework 1471ms linear forwards, launchFirework33 1272ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework34 {
   to {
-    transform: translate(-14px, -64px);
+    transform: translate(-44px, -14px);
   }
 }
 
 @keyframes launchFirework34 {
   to {
-    transform: translate(-14px, -64px);
+    transform: translate(-44px, -14px);
   }
 }
 .firework34 {
-  -webkit-animation: launchFirework 1403ms linear forwards, launchFirework34 1218ms linear forwards;
-          animation: launchFirework 1403ms linear forwards, launchFirework34 1218ms linear forwards;
+  -webkit-animation: launchFirework 1236ms linear forwards, launchFirework34 758ms linear forwards;
+          animation: launchFirework 1236ms linear forwards, launchFirework34 758ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework35 {
   to {
-    transform: translate(20px, 94px);
+    transform: translate(9px, -22px);
   }
 }
 
 @keyframes launchFirework35 {
   to {
-    transform: translate(20px, 94px);
+    transform: translate(9px, -22px);
   }
 }
 .firework35 {
-  -webkit-animation: launchFirework 573ms linear forwards, launchFirework35 1288ms linear forwards;
-          animation: launchFirework 573ms linear forwards, launchFirework35 1288ms linear forwards;
+  -webkit-animation: launchFirework 1380ms linear forwards, launchFirework35 503ms linear forwards;
+          animation: launchFirework 1380ms linear forwards, launchFirework35 503ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework36 {
   to {
-    transform: translate(-66px, -2px);
+    transform: translate(76px, 57px);
   }
 }
 
 @keyframes launchFirework36 {
   to {
-    transform: translate(-66px, -2px);
+    transform: translate(76px, 57px);
   }
 }
 .firework36 {
-  -webkit-animation: launchFirework 1337ms linear forwards, launchFirework36 1278ms linear forwards;
-          animation: launchFirework 1337ms linear forwards, launchFirework36 1278ms linear forwards;
+  -webkit-animation: launchFirework 1344ms linear forwards, launchFirework36 1275ms linear forwards;
+          animation: launchFirework 1344ms linear forwards, launchFirework36 1275ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework37 {
   to {
-    transform: translate(-79px, -62px);
+    transform: translate(-76px, -62px);
   }
 }
 
 @keyframes launchFirework37 {
   to {
-    transform: translate(-79px, -62px);
+    transform: translate(-76px, -62px);
   }
 }
 .firework37 {
-  -webkit-animation: launchFirework 1281ms linear forwards, launchFirework37 1121ms linear forwards;
-          animation: launchFirework 1281ms linear forwards, launchFirework37 1121ms linear forwards;
+  -webkit-animation: launchFirework 1265ms linear forwards, launchFirework37 864ms linear forwards;
+          animation: launchFirework 1265ms linear forwards, launchFirework37 864ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework38 {
   to {
-    transform: translate(-40px, -23px);
+    transform: translate(19px, -16px);
   }
 }
 
 @keyframes launchFirework38 {
   to {
-    transform: translate(-40px, -23px);
+    transform: translate(19px, -16px);
   }
 }
 .firework38 {
-  -webkit-animation: launchFirework 1019ms linear forwards, launchFirework38 544ms linear forwards;
-          animation: launchFirework 1019ms linear forwards, launchFirework38 544ms linear forwards;
+  -webkit-animation: launchFirework 633ms linear forwards, launchFirework38 1354ms linear forwards;
+          animation: launchFirework 633ms linear forwards, launchFirework38 1354ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework39 {
   to {
-    transform: translate(-67px, -63px);
+    transform: translate(52px, -76px);
   }
 }
 
 @keyframes launchFirework39 {
   to {
-    transform: translate(-67px, -63px);
+    transform: translate(52px, -76px);
   }
 }
 .firework39 {
-  -webkit-animation: launchFirework 1160ms linear forwards, launchFirework39 1278ms linear forwards;
-          animation: launchFirework 1160ms linear forwards, launchFirework39 1278ms linear forwards;
+  -webkit-animation: launchFirework 728ms linear forwards, launchFirework39 1062ms linear forwards;
+          animation: launchFirework 728ms linear forwards, launchFirework39 1062ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework40 {
   to {
-    transform: translate(-24px, -34px);
+    transform: translate(-11px, -71px);
   }
 }
 
 @keyframes launchFirework40 {
   to {
-    transform: translate(-24px, -34px);
+    transform: translate(-11px, -71px);
   }
 }
 .firework40 {
-  -webkit-animation: launchFirework 800ms linear forwards, launchFirework40 891ms linear forwards;
-          animation: launchFirework 800ms linear forwards, launchFirework40 891ms linear forwards;
+  -webkit-animation: launchFirework 1356ms linear forwards, launchFirework40 1363ms linear forwards;
+          animation: launchFirework 1356ms linear forwards, launchFirework40 1363ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework41 {
   to {
-    transform: translate(-12px, -86px);
+    transform: translate(82px, -51px);
   }
 }
 
 @keyframes launchFirework41 {
   to {
-    transform: translate(-12px, -86px);
+    transform: translate(82px, -51px);
   }
 }
 .firework41 {
-  -webkit-animation: launchFirework 657ms linear forwards, launchFirework41 950ms linear forwards;
-          animation: launchFirework 657ms linear forwards, launchFirework41 950ms linear forwards;
+  -webkit-animation: launchFirework 1098ms linear forwards, launchFirework41 1225ms linear forwards;
+          animation: launchFirework 1098ms linear forwards, launchFirework41 1225ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework42 {
   to {
-    transform: translate(-69px, -53px);
+    transform: translate(-32px, -90px);
   }
 }
 
 @keyframes launchFirework42 {
   to {
-    transform: translate(-69px, -53px);
+    transform: translate(-32px, -90px);
   }
 }
 .firework42 {
-  -webkit-animation: launchFirework 1482ms linear forwards, launchFirework42 981ms linear forwards;
-          animation: launchFirework 1482ms linear forwards, launchFirework42 981ms linear forwards;
+  -webkit-animation: launchFirework 1034ms linear forwards, launchFirework42 1038ms linear forwards;
+          animation: launchFirework 1034ms linear forwards, launchFirework42 1038ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework43 {
   to {
-    transform: translate(25px, -19px);
+    transform: translate(27px, 27px);
   }
 }
 
 @keyframes launchFirework43 {
   to {
-    transform: translate(25px, -19px);
+    transform: translate(27px, 27px);
   }
 }
 .firework43 {
-  -webkit-animation: launchFirework 570ms linear forwards, launchFirework43 1186ms linear forwards;
-          animation: launchFirework 570ms linear forwards, launchFirework43 1186ms linear forwards;
+  -webkit-animation: launchFirework 714ms linear forwards, launchFirework43 1298ms linear forwards;
+          animation: launchFirework 714ms linear forwards, launchFirework43 1298ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework44 {
   to {
-    transform: translate(-65px, -42px);
+    transform: translate(-48px, -21px);
   }
 }
 
 @keyframes launchFirework44 {
   to {
-    transform: translate(-65px, -42px);
+    transform: translate(-48px, -21px);
   }
 }
 .firework44 {
-  -webkit-animation: launchFirework 1021ms linear forwards, launchFirework44 570ms linear forwards;
-          animation: launchFirework 1021ms linear forwards, launchFirework44 570ms linear forwards;
+  -webkit-animation: launchFirework 1479ms linear forwards, launchFirework44 1033ms linear forwards;
+          animation: launchFirework 1479ms linear forwards, launchFirework44 1033ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework45 {
   to {
-    transform: translate(-96px, 45px);
+    transform: translate(63px, -48px);
   }
 }
 
 @keyframes launchFirework45 {
   to {
-    transform: translate(-96px, 45px);
+    transform: translate(63px, -48px);
   }
 }
 .firework45 {
-  -webkit-animation: launchFirework 1280ms linear forwards, launchFirework45 801ms linear forwards;
-          animation: launchFirework 1280ms linear forwards, launchFirework45 801ms linear forwards;
+  -webkit-animation: launchFirework 682ms linear forwards, launchFirework45 1389ms linear forwards;
+          animation: launchFirework 682ms linear forwards, launchFirework45 1389ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework46 {
   to {
-    transform: translate(70px, 66px);
+    transform: translate(90px, 65px);
   }
 }
 
 @keyframes launchFirework46 {
   to {
-    transform: translate(70px, 66px);
+    transform: translate(90px, 65px);
   }
 }
 .firework46 {
-  -webkit-animation: launchFirework 684ms linear forwards, launchFirework46 1373ms linear forwards;
-          animation: launchFirework 684ms linear forwards, launchFirework46 1373ms linear forwards;
+  -webkit-animation: launchFirework 1092ms linear forwards, launchFirework46 777ms linear forwards;
+          animation: launchFirework 1092ms linear forwards, launchFirework46 777ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework47 {
   to {
-    transform: translate(-58px, -51px);
+    transform: translate(-47px, -10px);
   }
 }
 
 @keyframes launchFirework47 {
   to {
-    transform: translate(-58px, -51px);
+    transform: translate(-47px, -10px);
   }
 }
 .firework47 {
-  -webkit-animation: launchFirework 812ms linear forwards, launchFirework47 800ms linear forwards;
-          animation: launchFirework 812ms linear forwards, launchFirework47 800ms linear forwards;
+  -webkit-animation: launchFirework 1411ms linear forwards, launchFirework47 1115ms linear forwards;
+          animation: launchFirework 1411ms linear forwards, launchFirework47 1115ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework48 {
   to {
-    transform: translate(35px, 34px);
+    transform: translate(-97px, 99px);
   }
 }
 
 @keyframes launchFirework48 {
   to {
-    transform: translate(35px, 34px);
+    transform: translate(-97px, 99px);
   }
 }
 .firework48 {
-  -webkit-animation: launchFirework 1195ms linear forwards, launchFirework48 510ms linear forwards;
-          animation: launchFirework 1195ms linear forwards, launchFirework48 510ms linear forwards;
+  -webkit-animation: launchFirework 1280ms linear forwards, launchFirework48 1380ms linear forwards;
+          animation: launchFirework 1280ms linear forwards, launchFirework48 1380ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework49 {
   to {
-    transform: translate(52px, 19px);
+    transform: translate(-11px, 13px);
   }
 }
 
 @keyframes launchFirework49 {
   to {
-    transform: translate(52px, 19px);
+    transform: translate(-11px, 13px);
   }
 }
 .firework49 {
-  -webkit-animation: launchFirework 593ms linear forwards, launchFirework49 842ms linear forwards;
-          animation: launchFirework 593ms linear forwards, launchFirework49 842ms linear forwards;
+  -webkit-animation: launchFirework 818ms linear forwards, launchFirework49 848ms linear forwards;
+          animation: launchFirework 818ms linear forwards, launchFirework49 848ms linear forwards;
 }
 
 @-webkit-keyframes launchFirework50 {
   to {
-    transform: translate(91px, 29px);
+    transform: translate(-7px, 63px);
   }
 }
 
 @keyframes launchFirework50 {
   to {
-    transform: translate(91px, 29px);
+    transform: translate(-7px, 63px);
   }
 }
 .firework50 {
-  -webkit-animation: launchFirework 1467ms linear forwards, launchFirework50 1277ms linear forwards;
-          animation: launchFirework 1467ms linear forwards, launchFirework50 1277ms linear forwards;
+  -webkit-animation: launchFirework 1291ms linear forwards, launchFirework50 835ms linear forwards;
+          animation: launchFirework 1291ms linear forwards, launchFirework50 835ms linear forwards;
 }/*# sourceMappingURL=index.css.map */
